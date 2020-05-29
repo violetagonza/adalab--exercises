@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+}
+.container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.header {
+  background-color: rgb(208, 243, 243);
+  height: 15vh;
+  flex-grow: 1;
+}
+.main {
+  background-color: rgb(230, 201, 233);
+
+  height: 200vh;
+}
+.footer {
+  background-color: rgb(241, 173, 166);
+  height: 10vh;
+  flex-grow: 1;
+}

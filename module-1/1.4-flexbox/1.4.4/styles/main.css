@@ -1,0 +1,21 @@
+.list {
+  border: solid 1px rgb(235, 123, 235);
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.list-item {
+  border: orchid 1px solid;
+  padding: 5px;
+}
+.list-item-important {
+  padding: 5px;
+  border: orchid 1px solid;
+  order: -5;
+  align-self: stretch;
+}
+.col-container {
+  display: flex;
+}

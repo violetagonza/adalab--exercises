@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+.body {
+  width: 100vw;
+  max-width: 960px;
+}
+
+.header {
+  background-color: lightblue;
+  padding: 5px;
+  text-align: center;
+}
+.main {
+  display: flex;
+}
+.text {
+  background-color: rgb(247, 240, 192);
+  padding: 5px;
+  text-align: center;
+  width: 60vw;
+}
+.aside-1 {
+  background-color: rgb(240, 198, 240);
+  padding: 5px;
+  text-align: center;
+  width: 20vw;
+  order: -1;
+}
+.aside-2 {
+  background-color: rgb(206, 198, 240);
+  padding: 5px;
+  text-align: center;
+  width: 20vw;
+}
+.footer {
+  background-color: rgb(255, 206, 206);
+  padding: 5px;
+  text-align: center;
+}

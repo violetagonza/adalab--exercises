@@ -1,0 +1,9 @@
+.menu {
+  border: solid 1px rgb(235, 123, 235);
+  height: 100px;
+  display: flex;
+  list-style: none;
+  padding: 0 20px 0 20px;
+  justify-content: space-between;
+  align-items: center;
+}

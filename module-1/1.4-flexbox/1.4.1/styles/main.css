@@ -1,0 +1,14 @@
+.div-container {
+  height: 500px;
+  width: 500px;
+  border: solid 1px black;
+  display: flex;
+  /* columna: eje vertical */
+  flex-direction: column;
+  /* fila: eje horizontal*/
+  /* flex-direction: row; */
+}
+.div-1 {
+  background-color: rgb(244, 162, 223);
+  border: rgb(226, 43, 171) solid 1px;
+}
