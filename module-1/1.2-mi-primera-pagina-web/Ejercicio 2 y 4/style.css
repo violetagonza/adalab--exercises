@@ -1,0 +1,20 @@
+        body {
+            font-size: 18px;
+            font-style: Tahoma;
+            color: rebeccapurple;
+            background-color: mediumpurple;
+            line-height: 1.5;
+        }
+        footer {
+            display: flex;
+            justify-content: center;
+            padding: 5px;
+            background-color: mediumaquamarine;
+            color: white;
+        }
+
+        .custom {
+            height: 1px;
+            background-color: rebeccapurple;
+            border: none;
+        }
