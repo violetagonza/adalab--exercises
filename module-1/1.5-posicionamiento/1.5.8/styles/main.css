@@ -1,0 +1,25 @@
+.container {
+  height: 20px;
+  width: 530px;
+  border-bottom: 1px solid rgb(235, 226, 226);
+}
+.link {
+  color: black;
+  text-decoration: none;
+}
+a:hover {
+  color: rgb(236, 134, 202);
+}
+.archive-type {
+  width: 30px;
+  height: 15px;
+  background-color: rgb(255, 4, 4);
+  color: white;
+  border-radius: 5px;
+  font-size: 12px;
+  text-align: center;
+  box-sizing: border-box;
+  position: relative;
+  left: 500px;
+  bottom: 26px;
+}

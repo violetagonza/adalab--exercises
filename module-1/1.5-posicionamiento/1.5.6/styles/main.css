@@ -1,0 +1,15 @@
+.body {
+  margin: 0px;
+}
+
+.text {
+  margin: 5px;
+}
+
+.cookies {
+  height: 50px;
+  width: 100%;
+  background-color: rgb(241, 240, 157);
+  position: fixed;
+  bottom: 0px;
+}

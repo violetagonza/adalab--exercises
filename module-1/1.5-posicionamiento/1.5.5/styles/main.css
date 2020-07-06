@@ -1,0 +1,22 @@
+.div1 {
+  height: 500px;
+  width: 500px;
+  background-color: rgb(238, 233, 158);
+  padding: 40px;
+  border: salmon solid;
+  position: absolute;
+}
+.div2 {
+  height: 300px;
+  width: 300px;
+  background-color: rgb(158, 238, 158);
+  padding: 75px;
+  position: absolute;
+}
+.div3 {
+  height: 150px;
+  width: 150px;
+  border: steelblue dotted;
+  background-color: rgb(158, 222, 238);
+  position: absolute;
+}

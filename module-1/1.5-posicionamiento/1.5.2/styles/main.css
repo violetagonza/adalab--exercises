@@ -1,0 +1,33 @@
+.divPadre {
+  background-color: rgb(182, 122, 238);
+}
+.div1 {
+  width: 300px;
+  height: 300px;
+  margin: 40px;
+  pad: 30px;
+  background-color: rgb(142, 223, 238);
+  position: relative;
+  left: 100px;
+  top: 50px;
+}
+.div2 {
+  width: 300px;
+  height: 300px;
+  margin: 40px;
+  pad: 30px;
+  background-color: rgb(243, 149, 231);
+  position: relative;
+  right: 150px;
+  bottom: 320px;
+}
+.div3 {
+  width: 300px;
+  height: 300px;
+  margin: 40px;
+  pad: 30px;
+  background-color: rgb(226, 238, 122);
+  position: relative;
+  left: 180px;
+  bottom: 240px;
+}
